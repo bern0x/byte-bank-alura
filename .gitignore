@@ -1,0 +1,8 @@
+# Ignora a pasta de configurações do IntelliJ IDEA
+.idea
+
+# Ignora a pasta de arquivos compilados do Maven
+target/
+
+# Ignora arquivos de módulo do IntelliJ (se houver)
+*.iml
